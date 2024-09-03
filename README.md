@@ -5,7 +5,7 @@
 **Description:** A fully responsive website created using HTML5 and CSS3.
 
 
-### Features
+## Features
 
 ✔️ **Responsive Design:** Adapts to various screen sizes and devices.
 
@@ -15,13 +15,14 @@
 
 ✔️ **Accessibility:** Adheres to accessibility standards for better usability.
 
-### Technologies Used
+## Technologies Used
 
 - **HTML5:** For the structure and semantic content.
 
 - **CSS3:** For styling, layout, and responsiveness.
 
-### Installation
+## Installation
+
 1. Clone the repository:
 
     ```bash
